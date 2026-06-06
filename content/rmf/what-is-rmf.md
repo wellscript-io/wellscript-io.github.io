@@ -1,5 +1,5 @@
 ﻿---
-title: "What Is RMF? A Practical introduction for SysAdmins"
+title: "What Is RMF? A Practical Introduction for SysAdmins"
 date: 2026-06-06
 draft: false
 tags: ["rmf", "grc", "sysadmin", "federal-cybersecurity", "cyber-compliance"]
