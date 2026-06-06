@@ -1,0 +1,37 @@
+baseURL = "https://wellscript.io/"
+languageCode = "en-us"
+title = "WellScript"
+theme = "PaperMod"
+
+[params]
+  description = "Practical RMF, eMASS, and federal cybersecurity compliance notes"
+  author = "Carlos Henry"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = "RMF"
+    url = "/rmf/"
+    weight = 1
+  [[menu.main]]
+    name = "eMASS"
+    url = "/emass/"
+    weight = 2
+  [[menu.main]]
+    name = "POA&M"
+    url = "/poam/"
+    weight = 3
+  [[menu.main]]
+    name = "Splunk"
+    url = "/splunk/"
+    weight = 4
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 5
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
