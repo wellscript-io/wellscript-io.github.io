@@ -42,3 +42,4 @@ theme = "PaperMod"
 
 [permalinks]
   tags = "/tags/:slug/"
+preserveTaxonomyNames = true
