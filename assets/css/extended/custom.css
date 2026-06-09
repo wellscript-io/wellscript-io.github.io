@@ -1,3 +1,7 @@
-﻿.post-tags a {
+﻿.post-footer .post-tags a {
+    text-transform: none !important;
+}
+
+.post-tags a {
     text-transform: none !important;
 }
