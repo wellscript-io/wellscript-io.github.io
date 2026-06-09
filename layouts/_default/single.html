@@ -50,7 +50,7 @@
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      <li><a href="{{ .Permalink }}">{{ .Page.Title }}</a></li>
       {{- end }}
     </ul>
     {{- if (.Param "ShowPostNavLinks") }}
