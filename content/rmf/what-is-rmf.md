@@ -2,7 +2,7 @@
 title: "What Is RMF? A Practical Introduction for SysAdmins"
 date: 2026-06-06
 draft: false
-tags: ["rmf", "grc", "sysadmin", "federal-cybersecurity", "cyber-compliance"]
+tags: ["RMF", "GRC", "SysAdmin", "Federal Cybersecurity", "DoD Compliance"]
 description: "RMF isn't a bureaucratic detour from technical work. It's where your technical work gets evaluated, justified, and either trusted or questioned."
 ---
 
