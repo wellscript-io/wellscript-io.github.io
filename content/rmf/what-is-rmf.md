@@ -5,7 +5,7 @@ draft: false
 tags: ["RMF", "GRC", "SysAdmin", "Federal Cybersecurity", "DoD Compliance"]
 description: "RMF isn't a bureaucratic detour from technical work. It's where your technical work gets evaluated, justified, and either trusted or questioned."
 cover:
-  image: "/images/rmf-intro-cover.svg"
+  image: "/images/rmf-intro-cover.png"
   alt: "What Is RMF? A Practical Introduction for SysAdmins"
   relative: false
   hidden: true
