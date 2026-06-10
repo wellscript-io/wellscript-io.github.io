@@ -1,9 +1,14 @@
-﻿---
+---
 title: "What Is eMASS and How Does It Support RMF?"
 date: 2026-06-07
 draft: false
 tags: ["eMASS", "RMF", "DHA", "DoD Compliance", "ATO", "ISSO"]
 description: "eMASS is the DoD's system of record for RMF packages — here's what it actually does, how it fits the authorization workflow, and what working in it looks like."
+cover:
+  image: "/images/emass-intro-cover.svg"
+  alt: "What Is eMASS and How Does It Support RMF?"
+  relative: false
+  hidden: true
 ---
 
 *New to RMF? Start with [What Is RMF? A Practical Introduction for SysAdmins](/rmf/what-is-rmf/).*
