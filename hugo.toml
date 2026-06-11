@@ -4,6 +4,7 @@ title = "WellScript"
 theme = "PaperMod"
 
 [params]
+  images = ["/images/wellscript-cover.png"]
   description = "Practical RMF, eMASS, and federal cybersecurity compliance notes"
   author = "Carlos Henry"
   ShowReadingTime = true
