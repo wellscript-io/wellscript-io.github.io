@@ -3,10 +3,8 @@ languageCode = "en-us"
 title = "WellScript"
 theme = "PaperMod"
 
-paginate = 10
-mainSections = ["rmf", "emass", "poam", "splunk"]
-
 [params]
+  mainSections = ["rmf", "emass", "poam", "splunk"]
   images = ["/images/wellscript-cover.png"]
   description = "Practical RMF, eMASS, and federal cybersecurity compliance notes"
   author = "Carlos Henry"
@@ -46,4 +44,5 @@ mainSections = ["rmf", "emass", "poam", "splunk"]
     name = "About"
     url = "/about/"
     weight = 6
+
 
