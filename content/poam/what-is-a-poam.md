@@ -86,3 +86,5 @@ If you're in a SysAdmin or early ISSO role and working with an RMF package, the 
 **Treat extensions as formal actions.** A missed milestone with documented rationale, revised milestones, and proper approval reads as active management. A passed date with no update reads as a finding in itself.
 
 The POA&M is where your system's security posture becomes visible to the people who have to defend that posture in front of an AO. Treat it like the authorization artifact it is.
+
+
