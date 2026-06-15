@@ -2,7 +2,9 @@ baseURL = "https://wellscript.io/"
 languageCode = "en-us"
 title = "WellScript"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   mainSections = ["rmf", "emass", "poam", "splunk"]
