@@ -1,7 +1,8 @@
-﻿baseURL = "https://wellscript.io/"
+baseURL = "https://wellscript.io/"
 languageCode = "en-us"
 title = "WellScript"
 theme = "PaperMod"
+paginate = 10
 
 [params]
   mainSections = ["rmf", "emass", "poam", "splunk"]
@@ -44,5 +45,3 @@ theme = "PaperMod"
     name = "About"
     url = "/about/"
     weight = 6
-
-
