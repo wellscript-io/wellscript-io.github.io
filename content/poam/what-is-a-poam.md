@@ -3,7 +3,7 @@ title: "What Is a POA&M and How Does It Support Your ATO?"
 date: 2026-06-14
 draft: false
 tags: ["POA&M", "RMF", "eMASS", "Federal Cybersecurity", "DoD Compliance", "ISSO"]
-description: "A POA&M isn't just a list of open findings  --  it's a formal commitment that directly shapes your ATO. Here's what it contains, how it works, and what happens when it isn't maintained."
+description: "A POA&M is more than a list of open findings. It is a formal commitment that shapes your ATO. Here is what it contains, how it works, and what happens when it is not maintained."
 cover:
   image: "/images/poam-intro-cover.png"
   alt: "What Is a POA&M and How Does It Support Your ATO?"
