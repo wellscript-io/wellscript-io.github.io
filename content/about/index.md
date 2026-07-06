@@ -1,6 +1,8 @@
-﻿---
+---
 title: "About"
 layout: "page"
+description: "Who runs WellScript and why it exists — federal IT, RMF, and security compliance documented from inside the systems the policies are meant to protect."
+hideMeta: true
 ---
 
 I am a U.S. Air Force veteran and federal IT professional who spent years making systems work before I started making them defensible. WellScript is where I document what that bridge actually looks like.
